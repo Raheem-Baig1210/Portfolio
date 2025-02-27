@@ -258,7 +258,7 @@ h1{
     width: 400px;
     margin-left: 100px;
     background: #7cf03d;
-    background-image: url("/Portfolio/Man3");
+    background-image: url("/Man3");
     border-radius: 50%;
     background-position: center;
     background-size: cover;
@@ -301,7 +301,7 @@ h1{
     width: 400px;
     margin-left: 100px;
     background: #7cf03d;
-    background-image: url("/Portfolio/Man2.jpg");
+    background-image: url("/Man2.jpg");
     border-radius: 50%;
     background-position: center;
     background-size: cover;
@@ -491,7 +491,7 @@ h1{
 }
 
 .ll{
-    background-image: url("/Portfolio/img.png");
+    background-image: url("/img.png");
     height: 500px;
     min-width: 400px;
     align-items: center;
@@ -523,7 +523,7 @@ h1{
 .rig{
     height: 500px;
     min-width: 400px;
-    background-image: url("/Portfolio/img2.png");
+    background-image: url("/img2.png");
     align-items: center;
     background-size: cover;
     background-position: center;
