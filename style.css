@@ -189,12 +189,12 @@ a{
 
 .home-img .img .img-item img{
     position: absolute;
-    top: 30px;
+    /* top: 30px; */
     display: block;
-    width: 85%;
-    object-fit: cover;
-    mix-blend-mode:lighten;
-    box-shadow:5px solid #7cf03d;
+    width: 100%;
+    /* object-fit: cover; */
+    /* mix-blend-mode:lighten; */
+    /* box-shadow:5px solid #7cf03d; */
     /* border: #7cf03d; */
 }
 
